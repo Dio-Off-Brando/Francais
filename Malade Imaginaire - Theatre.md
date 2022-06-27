@@ -6,9 +6,14 @@ ELs: [[Argan fait le mort]], [[Opera improvisé d'Angelique et Cleante]], [[Toin
 
 
 
+### Thémes abordés
+#### 1. La medecine
+Le malade imaginaire est une satire de la medecine. L'Europe connait des avancees majeurs en medecine.
+
+Les medecins du malade imaginaire sont pretentieux, cachent leur ignorance derriere des mots savants et un faux latin.
+
+
 ### Sujets possibles
-
-
 
 
 [[La comédie Le Malade imaginaire est-elle un spectacle de pure fantaisie ?]]
